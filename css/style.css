@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(255, 25, 0, 0.44);
+  }
+  
+  h1 {
+    color: rgb(255, 247, 0);
+    margin-left: 20px;
+    font-size : 30px;
+  }
+
+  #para1 {
+    text-align: center;
+    color: rgb(0, 255, 208);
+  }
+  * {
+    text-align: center;
+    color: blue;
+  }
